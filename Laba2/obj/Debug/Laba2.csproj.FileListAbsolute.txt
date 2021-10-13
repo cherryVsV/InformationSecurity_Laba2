@@ -1,0 +1,19 @@
+E:\4 курс\Защита информации\Лаба 2 Трипольская\Laba2\Laba2\bin\Debug\Laba2.exe.config
+E:\4 курс\Защита информации\Лаба 2 Трипольская\Laba2\Laba2\bin\Debug\Laba2.exe
+E:\4 курс\Защита информации\Лаба 2 Трипольская\Laba2\Laba2\bin\Debug\Laba2.pdb
+E:\4 курс\Защита информации\Лаба 2 Трипольская\Laba2\Laba2\obj\Debug\Laba2.csprojAssemblyReference.cache
+E:\4 курс\Защита информации\Лаба 2 Трипольская\Laba2\Laba2\obj\Debug\Laba2.Form1.resources
+E:\4 курс\Защита информации\Лаба 2 Трипольская\Laba2\Laba2\obj\Debug\Laba2.Properties.Resources.resources
+E:\4 курс\Защита информации\Лаба 2 Трипольская\Laba2\Laba2\obj\Debug\Laba2.csproj.GenerateResource.cache
+E:\4 курс\Защита информации\Лаба 2 Трипольская\Laba2\Laba2\obj\Debug\Laba2.exe
+E:\4 курс\Защита информации\Лаба 2 Трипольская\Laba2\Laba2\obj\Debug\Laba2.pdb
+C:\Users\valer\Desktop\4 курс лабы\Защита информации\Laba2\Laba2\bin\Debug\Laba2.exe.config
+C:\Users\valer\Desktop\4 курс лабы\Защита информации\Laba2\Laba2\bin\Debug\Laba2.exe
+C:\Users\valer\Desktop\4 курс лабы\Защита информации\Laba2\Laba2\bin\Debug\Laba2.pdb
+C:\Users\valer\Desktop\4 курс лабы\Защита информации\Laba2\Laba2\obj\Debug\Laba2.csprojAssemblyReference.cache
+C:\Users\valer\Desktop\4 курс лабы\Защита информации\Laba2\Laba2\obj\Debug\Laba2.Form1.resources
+C:\Users\valer\Desktop\4 курс лабы\Защита информации\Laba2\Laba2\obj\Debug\Laba2.Properties.Resources.resources
+C:\Users\valer\Desktop\4 курс лабы\Защита информации\Laba2\Laba2\obj\Debug\Laba2.csproj.GenerateResource.cache
+C:\Users\valer\Desktop\4 курс лабы\Защита информации\Laba2\Laba2\obj\Debug\Laba2.csproj.CoreCompileInputs.cache
+C:\Users\valer\Desktop\4 курс лабы\Защита информации\Laba2\Laba2\obj\Debug\Laba2.exe
+C:\Users\valer\Desktop\4 курс лабы\Защита информации\Laba2\Laba2\obj\Debug\Laba2.pdb
